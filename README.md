@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranavmenonx
-- 👀 Areas of Interest: Machine Learning, Natural Language Processing techniques, Deep Reinforcement Learning
+- 👀 Areas of Interest: Machine Learning, Artifical Intelligence, Cyber Security, Deep Learning
 - 🌱 I’m currently learning Computer Science @ The University of Maryland
 - 💞️ I’m looking to collaborate on any software related projects!!
 - 📫 How to reach me: pranav7312@gmail.com
