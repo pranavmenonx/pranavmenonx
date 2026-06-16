@@ -1,12 +1,40 @@
-- 👋 Hi, I’m @pranavmenonx
-- 👀 Areas of Interest: Machine Learning, Artifical Intelligence, Cyber Security, Deep Learning
-- 🌱 I’m currently learning Computer Science @ The University of Maryland
-- 💞️ I’m looking to collaborate on any software related projects!!
-- 💻 Currently working on a Functional Local Chess Java Project
-- 📫 How to reach me: pranav7312@gmail.com
+# Hi, I'm Pranav 👋
 
-Current Skills:
-Java, JavaScript, C, Python, Pytorch, Tensorflow, R, Matplotlib, HTML, and CSS
+Software Engineer building AI-powered developer tools, distributed systems, and scalable platform infrastructure.
 
-Actively Learning:
-SQL, Rust, OCaml, AWS, Swift, Xcode, and Microsft Azure
+- 🚀 Full Stack Software Engineer at Walmart Global Tech
+- 🤖 Built and deployed production AI tools serving 23,000+ engineers
+- ⚙️ Experienced with high-throughput systems processing 650M+ Kafka events daily
+- 🎓 M.S. in Computer Science (Artificial Intelligence), Georgia Tech — Expected 2028
+- 🎓 B.S. in Computer Science, University of Maryland
+
+## Areas of Interest
+
+- Agentic AI Systems
+- Developer Productivity
+- Distributed Systems
+- Workflow Orchestration
+- Platform Engineering
+- Machine Learning
+
+## Tech Stack
+
+**Languages:** Java, Python, TypeScript, JavaScript, C#, SQL
+
+**Backend & Infrastructure:** Spring Boot, Kafka, Kubernetes, Docker, Cassandra, Elasticsearch, Redis, REST APIs
+
+**AI & Data:** LangChain, Claude API, MCP, FastAPI, PyTorch, TensorFlow, Pandas
+
+**Frontend:** React, TypeScript, Node.js
+
+## Currently Exploring
+
+- AI agent architectures and MCP servers
+- LLM evaluation frameworks
+- Advanced distributed systems design
+- Production-grade AI workflows
+
+## Connect With Me
+
+📫 pranav7312@gmail.com
+💼 LinkedIn: linkedin.com/in/pranav-menon-7b5602193/
